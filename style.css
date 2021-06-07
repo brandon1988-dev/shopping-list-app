@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 64px;
+  align-content: center;
+  color: #0A64A3;
+
+}
+
+ul {
+  font-family: 'Rancho', cursive;
+  font-size: 32px;
+}
+
+p {
+  font-weight: bolder;
+  color: #FF1800;
+}
